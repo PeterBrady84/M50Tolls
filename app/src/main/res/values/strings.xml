@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">M50 Tolls</string>
+
+    <string name="select_vehicle">Select Vehicle</string>
+    <string name="electronic_tag">Electronic Tag</string>
+    <string name="calculate">Calculate</string>
+    <string name="total_charge">Total Charge € %1$s</string>
+    <string name="m50_image">M50 Header Image</string>
+    <string-array name="vehicle_type">
+        <item>Car</item>
+        <item>Public Service Vehicle</item>
+        <item>Bus</item>
+        <item>Goods</item>
+    </string-array>
+
+</resources>
